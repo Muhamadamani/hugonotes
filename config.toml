@@ -1,0 +1,20 @@
+baseurl = " https://muhamadamani.github.io/blog4/"
+languageCode = "en-us"
+title = "RH.io"
+theme = "hyde"
+copyright = ""
+publishdir = " https://muhamadamani.github.io/blog4/"
+[Author]
+	name = "Author Name"
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+[params]
+	description = "Site description"
+	twitter = "https://twitter.com/xyz"
+	github = "https://github.com/xyz"
+	disqus = ""
